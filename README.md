@@ -1,4 +1,4 @@
-# Olá eu sou o Paulo Madson seja bem-vindo ao meu github!
+# Olá eu sou o Paulo Madson, sejam bem-vindos ao meu github, aproveia e me segue nas redes sociais!
 
  <div>
   <a href="https://github.com/Paulo77Dev">
