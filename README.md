@@ -1,4 +1,4 @@
-# Olá eu sou o Paulo Madson, sejam bem-vindos ao meu github
+# Olá eu sou o Paulo Madson, sejam bem-vindos ao meu github!
 
  <div>
    <img height="168em" src="https://github-readme-stats.vercel.app/api?username=Paulo77Dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
