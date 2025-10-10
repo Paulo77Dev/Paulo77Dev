@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Desenvolvedor Full Stack apaixonado por tecnologia, inovação e aprendizado constante.<br>
-  🎯 Focado em criar soluções inteligentes com <b>Java, Spring Boot, React e Python</b>.
+  🎯 Focado em criar soluções inteligentes com <b>Java, Spring Boot, React, Python e IoT</b>.
 </p>
 
 ---
@@ -14,18 +14,29 @@
 
 ---
 
-### 🧠 Tecnologias que eu utilizo
+### 🤖 Tecnologias que eu utilizo
 
 <div align="center" style="display: inline_block"><br>
+
+  <!-- Frontend -->
+  <img align="center" alt="Paulo-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Paulo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Paulo-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Paulo-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Paulo-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Paulo-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Paulo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <!-- Backend -->
   <img align="center" alt="Paulo-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Paulo-Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Paulo-Spring" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Paulo-Postgres" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+
+  <!-- IoT / Eletrônica -->
+  <img align="center" alt="Paulo-Arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+  <img align="center" alt="Paulo-Proteus" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png">
+  <img align="center" alt="Paulo-Robotica" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png">
+  <img align="center" alt="Paulo-IA" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/4712/4712039.png">
+
   <img align="right" alt="Paulo-naruto" height="80" width="150" src="https://cdn.discordapp.com/attachments/859937046034513950/873380891467071528/tenor.gif">
 </div>
 
