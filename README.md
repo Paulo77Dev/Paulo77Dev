@@ -63,6 +63,4 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/Paulo77Dev/Paulo77Dev/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
