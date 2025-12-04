@@ -8,8 +8,8 @@
 ---
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Paulo77Dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo77Dev&layout=compact&langs_count=7&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Paulo77Dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Paulo77Dev&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
@@ -33,11 +33,14 @@
 
   <!-- IoT / Eletrônica -->
   <img align="center" alt="Paulo-Arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Paulo-Proteus" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png">
-  <img align="center" alt="Paulo-Robotica" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png">
-  <img align="center" alt="Paulo-IA" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/4712/4712039.png">
 
-  <img align="right" alt="Paulo-naruto" height="80" width="150" src="https://cdn.discordapp.com/attachments/859937046034513950/873380891467071528/tenor.gif">
+  <!-- Substituições estáveis -->
+  <img align="center" alt="Paulo-Proteus" height="40" width="40" src="https://img.icons8.com/color/48/electronics.png">
+  <img align="center" alt="Paulo-Robotica" height="40" width="40" src="https://img.icons8.com/fluency/48/robot.png">
+  <img align="center" alt="Paulo-IA" height="40" width="40" src="https://img.icons8.com/fluency/48/artificial-intelligence.png">
+
+  <!-- GIF substituto estável -->
+  <img align="right" alt="Paulo-naruto" height="100" src="https://media.tenor.com/4FjQfLOc1FkAAAAC/naruto.gif">
 </div>
 
 ---
@@ -62,5 +65,5 @@
 ---
 
 <div align="center">
-  
+
 </div>
